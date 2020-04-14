@@ -3,7 +3,7 @@ En este proyecto podéis navegar entre las páginas para ver el funconamiento es
 
 Os comento los ficheros:
 #### BD.php
-    He dejado los métodos que yo he usado. Lo he implem entado no estático
+    He dejado los métodos (solo nombres) que yo he usado. Lo he implementado no estático
 #### Index.php
 En este recurso aparecerán los datos de conexión y si estoy conectado las bases de datos
 #### tablas.php
